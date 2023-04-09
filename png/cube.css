@@ -1,0 +1,10 @@
+.cube {
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: 20px 1fr;
+    font-size: 1.3rem;
+    padding: 15px 20px;
+    background: #32117d;
+    border: 2px solid #fad318;
+    margin-bottom: 30px;
+}
