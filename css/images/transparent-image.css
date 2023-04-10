@@ -1,4 +1,7 @@
 .transparent-image
         {
          background-color: white;
+         border-color: white;
+         border-width: px;
+         border-style: solid;
         }
